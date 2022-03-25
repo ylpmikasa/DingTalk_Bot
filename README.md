@@ -1,0 +1,2 @@
+# DingTalk_Bot
+查询sqlserver数据库，利用webhook接口将数据定时发送给钉钉群进行消息提醒
